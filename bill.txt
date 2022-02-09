@@ -1,0 +1,6 @@
+Order{clientId=0, orderId=6, orderDate=2021-05-21T18:43:21.583616200}
+ 
+[MenuItem title='Sweet and Sour Pickles ', rating=2.5, calories=134.0, protein=1.0, fat=1.0, sodium=2919.0, price=12.0
+, MenuItem title='Zucchini Relish Wiley ', rating=4.375, calories=210.0, protein=3.0, fat=1.0, sodium=1767.0, price=85.0
+] 
+ total97.0

@@ -1,0 +1,2 @@
+[MenuItem title='Berry-Yogurt Smoothie ', rating=5.0, calories=326.0, protein=12.0, fat=5.0, sodium=135.0, price=17.0
+]
